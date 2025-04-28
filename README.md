@@ -1,7 +1,7 @@
 # Food Ordering App UI 🍔📱
 An elegant UI for a menu page layout, designed as a starting point for building a menu screen in an app.
 
-![Screenshot_1745863420](https://github.com/user-attachments/assets/d8f251ca-2139-41dc-9099-4a7b3ed86cba)
+![Screenshot_1745863420](https://github.com/user-attachments/assets/d9cc944a-8baf-4679-8d20-d2818b4e483a)
 
 
 ## Features
