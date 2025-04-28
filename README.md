@@ -1,46 +1,47 @@
-# Food Ordering App UI 🍔📱
+![Tuwaiq Academy Logo](lib/assets/Tuwaiq_Academy_Logo.png)
 
-![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
+# Food-Ordering-App-UI
+The Food-Ordering-App-UI is a single-page application designed to showcase a restaurant's menu. It provides users with a clean and intuitive interface to easily browse available dishes, and explore the full menu. The focus of the app is purely on the user interface, without incorporating ordering or checkout functionalities.
 
----
 
-## Introduction
 
-The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
-This project will focus on **UI design** and **layout structuring** in Flutter.
+# Getting Started
+### Prerequisites
 
-Your task is to replicate the given UI while ensuring **responsiveness** and **clean widget structuring**.
+Flutter SDK 
 
----
+A code editor (such as VS Code or Android Studio)
 
-## 📱 Core UI Elements
+### Installation
+1. Clone the repository:
 
-Your screen must include:
+   ```
+   git clone https://github.com/2Mhd6/Food-Ordering-App-UI.git
+   ```
 
-- ✅ **AppBar** – Displays the title "**Popular Menu**" and the search/filter section.
-- ✅ **Search Bar** – Allows users to search for food items.
-- ✅ **Category Chips** – Display different food categories (e.g., "European," "Burgers").
-- ✅ **Food Cards** – Show food images, names, prices, and an "Add to Cart" button.
-- ✅ **Favorite Button** – Allow users to favorite an item using a heart icon.
+2. Navigate to the project directory:
 
----
+   ```
+   cd Food-Ordering-App-UI
+   ```
 
-## 💻 GitHub Submission Guidelines
+3. Run the app:
 
-- Create a GitHub repository named **FoodOrderingAppUI**.
-- Ensure your `README.md` includes:
-  - Project description
-  - Setup instructions
-  - Screenshots of your app
+   ```
+   flutter run
+   ```
 
----
+## Output
 
-## ⏰ Deadline
+<img src = "lib/assets/BiteUI.png" alt = "Food-Ordering-App-UI - Output" width = "30%" height ="30%">
 
-Your project must be submitted by **29-4**, before **10:00 AM**.
+## Languages & Frameworks
 
----
+**Dart**
 
-## ✨ Reminder
+**Flutter**
 
-> “Great UI makes a great user experience! Focus on details and keep building.” 🚀
+## Created By
+
+[**Mohammed S. Alshammari**](https://www.linkedin.com/in/mohammedsalshammari/)
+
