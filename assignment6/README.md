@@ -1,4 +1,4 @@
-<img src = "lib/pages/image/BiteUI.png" alt = "BiteUI - Output" width = "30%" height ="30%">
+<img src = "lib/pages/image/Tuwaiq.png" alt = "Tuwaiq - Output">
 
 # Food Ordering App UI 🍔📱
 
