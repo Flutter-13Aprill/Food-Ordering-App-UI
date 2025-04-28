@@ -1,46 +1,37 @@
 # Food Ordering App UI 🍔📱
+An elegant UI for a menu page layout, designed as a starting point for building a menu screen in an app.
 
-![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
+![Screenshot_1745863420](https://github.com/user-attachments/assets/08c1d6bb-dea9-4eeb-8353-c34d9603b562)
 
----
+## Features
+- Display menu items 
+- Clean, structured layout
+- Responsive design
 
-## Introduction
+## Tech Stack 
+- Flutter (latest version) 
+- Dart
 
-The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
-This project will focus on **UI design** and **layout structuring** in Flutter.
+## Installation 
+1.	Clone the repository: 
+git clone https://github.com/shtwaijri/Food-Ordering-App-UI.git 
 
-Your task is to replicate the given UI while ensuring **responsiveness** and **clean widget structuring**.
+2.	Navigate to the project folder: 
+cd  Food-Ordering-App-UI
 
----
+3. Install dependencies: 
+flutter pub get 
 
-## 📱 Core UI Elements
+4.	Run the app: 
+flutter run 
 
-Your screen must include:
+## How to Use 
+- Open the app. 
+- Browse through available menu items. 
 
-- ✅ **AppBar** – Displays the title "**Popular Menu**" and the search/filter section.
-- ✅ **Search Bar** – Allows users to search for food items.
-- ✅ **Category Chips** – Display different food categories (e.g., "European," "Burgers").
-- ✅ **Food Cards** – Show food images, names, prices, and an "Add to Cart" button.
-- ✅ **Favorite Button** – Allow users to favorite an item using a heart icon.
+## Author 
+- Shatha Altwaijri 
 
----
 
-## 💻 GitHub Submission Guidelines
 
-- Create a GitHub repository named **FoodOrderingAppUI**.
-- Ensure your `README.md` includes:
-  - Project description
-  - Setup instructions
-  - Screenshots of your app
 
----
-
-## ⏰ Deadline
-
-Your project must be submitted by **29-4**, before **10:00 AM**.
-
----
-
-## ✨ Reminder
-
-> “Great UI makes a great user experience! Focus on details and keep building.” 🚀
