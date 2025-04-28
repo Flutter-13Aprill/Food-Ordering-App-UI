@@ -4,7 +4,7 @@ A beautiful Flutter app for browsing and ordering food from a café.
 
 ## Screenshots
 
-![image alt](https://github.com/azizotbb/Food-Ordering-App-UI/blob/f5c7bb5053b6c21d9d07e278e4ff9f4aa0f284b2/Screenshot_1745860048.png)
+![image alt](https://github.com/azizotbb/Food-Ordering-App-UI/blob/f5c7bb5053b6c21d9d07e278e4ff9f4aa0f284b2/Screenshot_1745860048.png =100x20)
 
 ## Features
 
