@@ -26,8 +26,9 @@ Then run: flutter run
 
 Note:
 You need a working emulator or a connected real device.
-
- - Screenshots of Food Order Menu App 
+ - Screenshots of Food Order Menu App
+   
   [Food Order Menu App]
+  
 ![image](https://github.com/user-attachments/assets/a2f0fc5e-d99b-4ff4-be3d-aff6494cd2ae)
 
