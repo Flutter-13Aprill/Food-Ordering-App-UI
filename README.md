@@ -1,6 +1,6 @@
 # Project Title
 
-A beautiful Flutter app for browsing and ordering food from a café. [cite: 1]
+A beautiful Flutter app for browsing and ordering food from a café.
 
 ## Screenshots
 
@@ -8,32 +8,32 @@ A beautiful Flutter app for browsing and ordering food from a café. [cite: 1]
 
 ## Features
 
-- Browse food and beverage menus. [cite: 3]
+- Browse food and beverage menus. 
 - View cart items. [cite: 3]
-- Smooth and responsive UI design. [cite: 3]
+- Smooth and responsive UI design. 
 
 ## Tech Stack
 
-- Flutter (latest version) [cite: 4]
+- Flutter (latest version) 
 - Dart [cite: 4]
 
 ## Installation
 
 1.  Clone the repository:
 
-    `git clone https://github.com/your-username/your-repo-name.git` [cite: 4]
+    `git clone https://github.com/your-username/your-repo-name.git` 
 
 2.  Navigate to the project folder:
 
-    `cd your-repo-name` [cite: 4]
+    `cd your-repo-name` 
 
 3.  Install dependencies:
 
-    `flutter pub get` [cite: 4]
+    `flutter pub get` 
 
 4.  Run the app:
 
-    `flutter run` [cite: 4]
+    `flutter run` 
 
 ## Folder Structure
 
@@ -41,13 +41,13 @@ A beautiful Flutter app for browsing and ordering food from a café. [cite: 1]
     ├── screens/
     ├── widgets/
     └── main.dart
-    [cite: 5]
+    
 
 ## How to Use
 
-- Open the app. [cite: 5, 6]
-- Browse through available menu items. [cite: 5, 6]
+- Open the app. 
+- Browse through available menu items. 
 
 ## Author
 
-- AbdulAziz Alotaibi [cite: 7]
+- AbdulAziz Alotaibi
