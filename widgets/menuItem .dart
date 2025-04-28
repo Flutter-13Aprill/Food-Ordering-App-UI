@@ -22,7 +22,7 @@ class MenuItem extends StatelessWidget {
       width: 160,
       height: 280,
       decoration: BoxDecoration(
-        color: Colors.red[50],// Light background color
+        color: Colors.white,// Light background color
         borderRadius: BorderRadius.circular(16),// Rounded corners
       ),
       child: Stack(// Using Stack for overlapping widgets
