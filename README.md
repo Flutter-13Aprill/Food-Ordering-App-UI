@@ -25,7 +25,13 @@ A code editor (such as VS Code or Android Studio)
    cd Food-Ordering-App-UI
    ```
 
-3. Run the app:
+3. Install dependencies:
+
+   ```
+   flutter pub get
+   ```
+
+4. Run the app:
 
    ```
    flutter run

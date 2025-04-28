@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // --- Widgets
-import 'package:bite_ui/widgets/menu_items/menu_item_widget.dart';
+import 'package:food_ordering_app_ui/widgets/menu_items/menu_item_widget.dart';
 
 /// [MenuItemsWidget] It's a widget that will display all food in the menu
 class MenuItemsWidget extends StatelessWidget {

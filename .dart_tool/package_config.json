@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "food_orderning_app_ui",
+      "name": "food_ordering_app_ui",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-04-28T19:30:52.730921Z",
+  "generated": "2025-04-28T20:29:56.598275Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///Users/mohammed/Development/flutter",

@@ -19,7 +19,7 @@ class FavoriteButtonWidgetState extends State<FavoriteButtonWidget>{
     
 
     return Container(
-      margin: EdgeInsets.only(left: 16,top: 24),
+      margin: EdgeInsets.only(right: 8,top: 16),
       decoration: BoxDecoration(
         shape: BoxShape.circle,
         color: Color(0xFFF9F9F9)

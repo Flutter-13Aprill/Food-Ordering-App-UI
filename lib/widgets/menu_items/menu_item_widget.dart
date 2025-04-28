@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 // --- Widgets
-import 'package:bite_ui/widgets/menu_items/favorite_button_widget.dart';
-import 'package:bite_ui/widgets/menu_items/add_cart_button_widget.dart';
+import 'package:food_ordering_app_ui/widgets/menu_items/favorite_button_widget.dart';
+import 'package:food_ordering_app_ui/widgets/menu_items/add_cart_button_widget.dart';
 
 /// [MenuItemWidget] It's a widget that will display food information, and it has  4 properties
 ///

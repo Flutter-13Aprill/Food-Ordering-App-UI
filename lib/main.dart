@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // -- Screens
-import 'package:bite_ui/screens/home_screen.dart';
+import 'package:food_ordering_app_ui/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());

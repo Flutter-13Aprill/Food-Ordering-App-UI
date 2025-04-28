@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 // -- Widgets
-import 'package:bite_ui/widgets/category_chips/category_chips_widget.dart';
-import 'package:bite_ui/widgets/menu_items/menu_items_widget.dart';
-import 'package:bite_ui/widgets/search_bar_widget.dart';
+import 'package:food_ordering_app_ui/widgets/category_chips/category_chips_widget.dart';
+import 'package:food_ordering_app_ui/widgets/menu_items/menu_items_widget.dart';
+import 'package:food_ordering_app_ui/widgets/search_bar_widget.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

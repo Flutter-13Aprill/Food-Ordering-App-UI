@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // -- Widgets
-import 'package:bite_ui/widgets/category_chips/category_container_widget.dart';
+import 'package:food_ordering_app_ui/widgets/category_chips/category_container_widget.dart';
 
 /// [CategoryChipsWidget] It's a widget that will display all category chips
 class CategoryChipsWidget extends StatelessWidget {
