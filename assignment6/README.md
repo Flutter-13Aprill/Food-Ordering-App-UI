@@ -35,19 +35,34 @@ Your screen must include:
 
 2- download [Android Studio](https://developer.android.com/studio?hl=ar) to play the emulator or you can use any emulator you like.
 
-3-open the project and use the following line
+3- 
+```
+git clone https://github.com/AymanAlzahrani/Food-Ordering-App-UI.git
+ ```
+
+
+4- 
+```
+ cd desktop/Food-Ordering-App-UI/assignment6
+```
+5-
+```
+code .
+```
+
+6-
 
 ```
 flutter run
 ```
 
-4-Make a cup of tea because you made it 🍵 
+7-Make a cup of tea because you made it 🍵 
 
 ---
 
 ## ✨ Written by Ayman Alzahrani
 
-plaese if you have any suggestions contact me [here] (aymangormallah@gmail.com).
+plaese if you have any suggestions contact me <a href="mailto:aymangormallah@gmail.com">Here.</a>
 
 
 ![image_alt](https://44.media.tumblr.com/52f48204f477ffa479d50660fa5cd200/63298db2b621d608-2f/s2048x3072_f1/c4bef1facf5ad4907afb5bcf85c65af88efc651c.gif)
