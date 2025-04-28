@@ -35,22 +35,22 @@ Your screen must include:
 
 2- download [Android Studio](https://developer.android.com/studio?hl=ar) to play the emulator or you can use any emulator you like.
 
-3- 
+3- Clone the repo from me =) 
 ```
 git clone https://github.com/AymanAlzahrani/Food-Ordering-App-UI.git
  ```
 
 
-4- 
+4- Navigate the project files
 ```
  cd desktop/Food-Ordering-App-UI/assignment6
 ```
-5-
+5- Open VSCode
 ```
 code .
 ```
 
-6-
+6-Run the app
 
 ```
 flutter run
