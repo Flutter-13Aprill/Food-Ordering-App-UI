@@ -1,12 +1,14 @@
 # Food Ordering App UI 🍔📱
 
-![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
+
+<img src="https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png" alt="Food Ordering App" width="350">
+
 
 ---
 ## Project Overview
-<p>
+
   <img src="AppOverview.gif" alt="Preview" width="350">
-</p>
+
 
 
 ---
@@ -39,3 +41,7 @@ Screen include:
 
 ## Author
 Remas Alnugaithan
+
+> ## 📝 Note:
+> If you have any feedback or suggestions regarding my code or the way I structure my README, please feel free to share them.  
+> We only improve through constructive feedback!
