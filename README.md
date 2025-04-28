@@ -1,46 +1,86 @@
-# Food Ordering App UI 🍔📱
+# Food Ordering App 🍝
 
-![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
 
----
+### Overview 👀
 
-## Introduction
-
-The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
-This project will focus on **UI design** and **layout structuring** in Flutter.
-
-Your task is to replicate the given UI while ensuring **responsiveness** and **clean widget structuring**.
+This project is part of a Flutter bootcamp where the goal is to develop a **Food Ordering Application UI**. The app allows users to browse popular menu items, search for food, and add items to their cart. The focus of this project is on UI design and layout structuring in Flutter.
 
 ---
 
-## 📱 Core UI Elements
+### Output 📱
 
-Your screen must include:
 
-- ✅ **AppBar** – Displays the title "**Popular Menu**" and the search/filter section.
-- ✅ **Search Bar** – Allows users to search for food items.
-- ✅ **Category Chips** – Display different food categories (e.g., "European," "Burgers").
-- ✅ **Food Cards** – Show food images, names, prices, and an "Add to Cart" button.
-- ✅ **Favorite Button** – Allow users to favorite an item using a heart icon.
+https://github.com/user-attachments/assets/f1e7e91c-b726-4f26-83a6-00a48e40f5ce
 
----
 
-## 💻 GitHub Submission Guidelines
+### Features ⭐️
 
-- Create a GitHub repository named **FoodOrderingAppUI**.
-- Ensure your `README.md` includes:
-  - Project description
-  - Setup instructions
-  - Screenshots of your app
+- Browse food menus.
+- Search for specific food items.
+- Add items to the cart.
+- Smooth and responsive UI design.
 
 ---
 
-## ⏰ Deadline
+### Tech Stack 💻
 
-Your project must be submitted by **29-4**, before **10:00 AM**.
+- **Flutter**
+- **Dart**
 
 ---
 
-## ✨ Reminder
+### Installation 🛠️
 
-> “Great UI makes a great user experience! Focus on details and keep building.” 🚀
+1. Clone the repository:
+
+```bash
+   git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+   cd your-repo-name
+```
+
+3. Install dependencies:
+
+```bash
+   flutter pub get
+```
+
+4. Run the app:
+
+```bash
+   flutter run
+```
+
+---
+
+### Folder Structure 🔨
+
+```
+lib
+   ├── components
+   │   └── menu_item.dart
+   ├── main.dart
+   ├── models
+   │   └── item_model.dart
+   ├── screens
+   │   └── home_screen.dart
+   └── widget
+       └── menu_card.dart
+```
+
+---
+
+### How to Use 📲
+
+- Open the app.
+- Browse through available menu items.
+- Check the category filter
+
+### Author👩‍💻
+**Lamya Alsuhaibani**  
+[🌐 Portfolio Website](https://picayune-mouth-ade.notion.site/Lamya-Alsuhaibani-310c29eda5ba40638fa895968d3f630d "My Portfolio Website")  
+[💼 LinkedIn](https://www.linkedin.com/in/lamya-a-alsuhaibani/ "My LinkedIn")
