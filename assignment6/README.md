@@ -6,7 +6,7 @@ A beatiful Flutter app for browsing and ordering food from a café.
 
 ---
 
-<img src = "lib/pages/image/screenshot.png" alt = "BiteUI - Output" width = "30%" height ="30%">
+<img src = "lib/pages/image/screenshot.png" alt = "Screenshot - Output" width = "30%" height ="30%">
 
 ---
 
