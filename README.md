@@ -9,13 +9,13 @@ A beautiful Flutter app for browsing and ordering food from a café.
 ## Features
 
 - Browse food and beverage menus. 
-- View cart items. [cite: 3]
+- View cart items. 
 - Smooth and responsive UI design. 
 
 ## Tech Stack
 
 - Flutter (latest version) 
-- Dart [cite: 4]
+- Dart 
 
 ## Installation
 
