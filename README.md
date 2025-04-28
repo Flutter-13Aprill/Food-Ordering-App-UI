@@ -12,6 +12,7 @@ This project is part of a Flutter bootcamp where the goal is to develop a **Food
 
 https://github.com/user-attachments/assets/f1e7e91c-b726-4f26-83a6-00a48e40f5ce
 
+---
 
 ### Features ⭐️
 
@@ -79,6 +80,8 @@ lib
 - Open the app.
 - Browse through available menu items.
 - Check the category filter
+
+---
 
 ### Author👩‍💻
 **Lamya Alsuhaibani**  
