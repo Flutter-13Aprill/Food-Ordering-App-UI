@@ -47,11 +47,18 @@ Uses colors and backgrounds that are visually pleasing.
 2.  <small>*Navigate to the project folder:*</small>
 
   cd Food-Ordering-App-UI
+  
+3.  <small>*create app:*</small>
 
-3.  <small>*Run the app:*</small>
+   flutter create app
+
+4.  <small>*Run the app:*</small>
+
+  cd app
+
+5.  <small>*Run the app:*</small>
 
   flutter run
-
 
 
 Folder Structure (Optional)
