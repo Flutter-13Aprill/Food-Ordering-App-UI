@@ -1,46 +1,66 @@
 # Food Ordering App UI 🍔📱
 
-![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
+<image src="https://github.com/user-attachments/assets/feb36d7b-ddb3-440d-8a83-cf5a07d695f7" width=150,>
 
----
+  
+## Features
+#### 1.Search Bar:
 
-## Introduction
+Allows users to search for specific food items or categories.
 
-The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
-This project will focus on **UI design** and **layout structuring** in Flutter.
+#### 2.Item Cards:
+   Each card includes:
 
-Your task is to replicate the given UI while ensuring **responsiveness** and **clean widget structuring**.
+- Image of the Item: Showcases the food attractively.
 
----
+- Item Name: Clearly states what the item is (e.g., "Cheese Burger" or "Pizza").
 
-## 📱 Core UI Elements
+- Item Price: Displays the cost of each item.
 
-Your screen must include:
+- Favorite Icon: Allows users to add the item to a favorites list.
 
-- ✅ **AppBar** – Displays the title "**Popular Menu**" and the search/filter section.
-- ✅ **Search Bar** – Allows users to search for food items.
-- ✅ **Category Chips** – Display different food categories (e.g., "European," "Burgers").
-- ✅ **Food Cards** – Show food images, names, prices, and an "Add to Cart" button.
-- ✅ **Favorite Button** – Allow users to favorite an item using a heart icon.
+- Add to Cart Button: Enables users to add the item to their shopping cart.
 
----
+#### 3.Appealing Design:
 
-## 💻 GitHub Submission Guidelines
+Uses colors and backgrounds that are visually pleasing.
 
-- Create a GitHub repository named **FoodOrderingAppUI**.
-- Ensure your `README.md` includes:
-  - Project description
-  - Setup instructions
-  - Screenshots of your app
+#### Tech Stack
+- Flutter (latest version)
+- Dart
 
----
+### Installation
 
-## ⏰ Deadline
+1. <small>*Clone the repository:*</small>
+   ```bash
+   git clone  https://github.com/BushraAljuwair/Food-Ordering-App-UI.git
 
-Your project must be submitted by **29-4**, before **10:00 AM**.
+2.  <small>*Navigate to the project folder:*</small>
 
----
+  cd Food-Ordering-App-UI
 
-## ✨ Reminder
+3.  <small>*Run the app:*</small>
 
-> “Great UI makes a great user experience! Focus on details and keep building.” 🚀
+  flutter run
+
+
+
+Folder Structure (Optional)
+- lib/
+- screens/
+- home_screen
+- widgets/
+- category.dart
+- MenuItem.dart
+- serch_widget.dart
+- models/
+- main.dart
+
+### How to Use
+- Open the app.
+- Browse through available menu items.
+- Add your favorite items to the cart.
+- Proceed to checkout payment.
+
+  ### Author
+  ##### Bshra Aljuwair

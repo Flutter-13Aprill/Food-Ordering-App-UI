@@ -1,0 +1,73 @@
+import 'package:first_ui/screens/setting_screen.dart';
+import 'package:flutter/material.dart';
+
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: Stack(
+          clipBehavior: Clip.none,
+
+          children: [
+            InkWell(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SettingScreen()),
+                );
+              },
+              child: Container(
+                height: 100,
+                width: 100,
+                alignment: Alignment.center,
+                decoration: BoxDecoration(
+                  shape: BoxShape.circle,
+                  color: Colors.red,
+                  boxShadow: kElevationToShadow[11],
+                  border: Border(
+                    bottom: BorderSide(color: Colors.blue, width: 4),
+                  ),
+                ),
+                child: Text("Here i am"),
+              ),
+            ),
+            Positioned(
+              right: 100 / 40,
+              top: 100 / 21,
+              child: Icon(Icons.person),
+            ),
+            Positioned(
+              top: 120,
+              child: InkWell(
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => SettingScreen()),
+                  );
+                },
+                child: Container(
+                  height: 100,
+                  width: 100,
+                  alignment: Alignment.center,
+                  decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    color: Colors.red,
+                    boxShadow: kElevationToShadow[11],
+                    border: Border(
+                      bottom: BorderSide(color: Colors.blue, width: 4),
+                    ),
+                  ),
+                  child: Text("Here i am"),
+                ),
+              ),
+            ),
+            Positioned(right: 100 / 13, top: 120, child: Icon(Icons.person)),
+          ],
+        ),
+      ),
+    );
+  }
+}
