@@ -4,7 +4,9 @@
 
 ---
 ## Project Overview
-![Preview](AppOverview.gif)
+<p>
+  <img src="AppOverview.gif" alt="Preview" width="350">
+</p>
 
 
 ---
