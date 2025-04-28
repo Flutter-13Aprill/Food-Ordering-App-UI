@@ -28,4 +28,4 @@ Note:
 You need a working emulator or a connected real device.
 
  - Screenshots of Food Order Menu App 
-  [Food Order Menu App]("Food-Ordering-App-UI\image.png")
+  [Food Order Menu App]("image.png")
