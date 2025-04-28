@@ -1,16 +1,37 @@
-# assignment6
+# Food Ordering App UI 🍔📱
+An elegant UI for a menu page layout, designed as a starting point for building a menu screen in an app.
 
-A new Flutter project.
+![Screenshot_1745863420](https://github.com/user-attachments/assets/82dbc582-7880-4cc8-bf0f-b66c6b73250b)
 
-## Getting Started
+## Features
+- Display menu items 
+- Clean, structured layout
+- Responsive design
 
-This project is a starting point for a Flutter application.
+## Tech Stack 
+- Flutter (latest version) 
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Installation 
+1.	Clone the repository: 
+git clone https://github.com/shtwaijri/Food-Ordering-App-UI.git 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.	Navigate to the project folder: 
+cd  Food-Ordering-App-UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install dependencies: 
+flutter pub get 
+
+4.	Run the app: 
+flutter run 
+
+## How to Use 
+- Open the app. 
+- Browse through available menu items. 
+
+## Author 
+- Shatha Altwaijri 
+
+
+
+
