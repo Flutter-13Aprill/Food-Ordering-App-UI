@@ -1,7 +1,7 @@
 # Food & Beverage Menu App
 
 ## 🎨  UI design with a clean layout
-![App Demo](assets/demo.gif)
+![App Demo](demo.gif)
 
 ## 🛠 Tech Stack
 
