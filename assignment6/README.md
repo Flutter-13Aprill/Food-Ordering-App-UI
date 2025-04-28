@@ -2,7 +2,7 @@
 
 # Food Ordering App UI 🍔📱
 
-A beatiful Flutter app for browsing and ordering food from a café.
+A beatiful Flutter app for browsing and ordering food from a Resturant.
 
 ---
 
