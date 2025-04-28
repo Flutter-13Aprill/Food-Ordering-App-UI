@@ -14,12 +14,16 @@ It features a search bar, food categories, and a grid of delicious food items ea
 
 4-Modern use of material design elements like Chip, Card, and ElevatedButton.
 
+
 - Setup instructions
+  
 1-Clone the repository
 Through commands line:git clone Your Own path
+
 2-Install dependencies
 Make sure you have Flutter installed. 
 Then run:flutter pub get
+
 3-Run the app
 You can launch the app using.
 Then run: flutter run
