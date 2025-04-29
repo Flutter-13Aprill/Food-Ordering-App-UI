@@ -1,46 +1,51 @@
-# Food Ordering App UI 🍔📱
+# Food Ordering App UI - Assignment 6 (Flutter)🍔📱
 
-![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
-
----
-
-## Introduction
-
-The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
-This project will focus on **UI design** and **layout structuring** in Flutter.
-
-Your task is to replicate the given UI while ensuring **responsiveness** and **clean widget structuring**.
 
 ---
+## 📖 Description
 
-## 📱 Core UI Elements
-
-Your screen must include:
-
-- ✅ **AppBar** – Displays the title "**Popular Menu**" and the search/filter section.
-- ✅ **Search Bar** – Allows users to search for food items.
-- ✅ **Category Chips** – Display different food categories (e.g., "European," "Burgers").
-- ✅ **Food Cards** – Show food images, names, prices, and an "Add to Cart" button.
-- ✅ **Favorite Button** – Allow users to favorite an item using a heart icon.
-
+This assignment focuses on building a clean and organized UI structure in Flutter. Task was to accurately replicate a given design reference by applying proper layout techniques, color schemes, text styles, and (padding/margin).  
 ---
 
-## 💻 GitHub Submission Guidelines
+## Project Structure
+- `lib/`
+  - `core/`
+    - `text/`
+      - `app_text.dart` → Contains all static text strings used across the app.
+    - `theme/`
+      - `app_palette.dart` → Defines the color palette used in the UI design.
+      - `app_theme.dart` → Defines the general theme settings like text styles, background colors, etc.
+  - `Screen/`
+    - `menu_page.dart` → Main screen that builds the food ordering app menu layout.
+  - `widget/`
+    - `cart/`
+      - `add_to_cart.dart` → Widget for building the "Add to Cart" button section.
+      - `custom_card.dart` → Widget for displaying each food item card.
+    - `custom_chip.dart` → Widget for building filter chips at the top ( Europian, 10m, Burgers).
+  - `main.dart` → App entry point that initializes the app.
+- `assets/`
+  - `images/` → Contains product images (Cheese Burger, Pizza, Fried Chicken, Salad, Cheese).
+---
+## 📦 Packages Used
 
-- Create a GitHub repository named **FoodOrderingAppUI**.
-- Ensure your `README.md` includes:
-  - Project description
-  - Setup instructions
-  - Screenshots of your app
+- `cupertino_icons` – for iOS-style icons ex.(heart icon).
+---
+## 🚀 How to Run
+
+- Run `flutter pub get` to fetch dependencies.
+- Use `flutter run` to launch the app on an emulator or physical device.
+---
+## 🧠 Features
+
+This assignment focuses on the UI structure only.ِAnd the next step is to build a full-featured version of the app, and its complete functionalities are currently under development.
 
 ---
+## 🖼️ UI Preview
 
-## ⏰ Deadline
+Here is a screenshot of the Food Ordering App UI:
 
-Your project must be submitted by **29-4**, before **10:00 AM**.
+![image](https://github.com/user-attachments/assets/a0bcd6bf-a185-4f64-9205-8397609491f7)
 
----
 
-## ✨ Reminder
 
-> “Great UI makes a great user experience! Focus on details and keep building.” 🚀
+
