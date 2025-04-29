@@ -1,14 +1,9 @@
 # Food Ordering App UI 🍔📱
 
-
-<img src="https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png" alt="Food Ordering App" width="350">
-
-
 ---
 ## Project Overview
 
   <img src="AppOverview.gif" alt="Preview" width="350">
-
 
 
 ---
