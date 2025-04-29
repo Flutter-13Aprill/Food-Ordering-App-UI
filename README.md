@@ -6,8 +6,21 @@
 
 This assignment focuses on building a clean and organized UI structure in Flutter. Task was to accurately replicate a given design reference by applying proper layout techniques, color schemes, text styles, and (padding/margin).  
 ---
+## 🖼️ UI Preview
 
-## Project Structure
+ Menu Screen :
+ 
+![image](https://github.com/user-attachments/assets/a0bcd6bf-a185-4f64-9205-8397609491f7)
+---
+## 🧠 Features
+
+This assignment focuses on the UI structure only.ِAnd the next step is to build a full-featured version of the app, and its complete functionalities are currently under development.
+---
+## Tech Stack
+- Flutter (latest version)
+- Dart
+---
+## Folder Structure 
 - `lib/`
   - `core/`
     - `text/`
@@ -30,21 +43,14 @@ This assignment focuses on building a clean and organized UI structure in Flutte
 
 - `cupertino_icons` – for iOS-style icons ex.(heart icon).
 ---
-## 🚀 How to Run
+## 🚀 How to Use
 
 - Run `flutter pub get` to fetch dependencies.
 - Use `flutter run` to launch the app on an emulator or physical device.
 ---
-## 🧠 Features
+## Author
+- Name:Wafa Alsibyani 
 
-This assignment focuses on the UI structure only.ِAnd the next step is to build a full-featured version of the app, and its complete functionalities are currently under development.
-
----
-## 🖼️ UI Preview
-
-Here is a screenshot of the Food Ordering App UI:
-
-![image](https://github.com/user-attachments/assets/a0bcd6bf-a185-4f64-9205-8397609491f7)
 
 
 
