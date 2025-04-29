@@ -3,7 +3,8 @@
 ![Food Ordering App](https://paper-attachments.dropboxusercontent.com/s_69647C1FF6C984FF81D4260732A102F2DF4DC072773110481D62B2D7A125EB70_1739185345523_image.png)
 
 ---
-
+#screen 📱
+https://github.com/DvOmar76/Food-Ordering-App-UI/blob/main/WhatsApp%20GIF%201446-11-01%20at%2000.57.28.gif
 ## Introduction
 
 The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
