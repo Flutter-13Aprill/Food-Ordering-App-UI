@@ -7,7 +7,7 @@
 
 ## Project Description
 
-The project about developing a User Interface for a hypothitical restraunt where you can browse and add the item you like in the cart for further process, all while focuing in keeping both the **responsiveness** and **clean widget structuring** 
+This project centers around building a user-friendly interface for a fictional restaurant app, enabling users to explore menu items and add them to a cart for further action, with an emphasis on responsive design and clean widget organization.
 
 
 ---
