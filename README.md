@@ -4,8 +4,7 @@
 
 ---
 #screen 📱
-![Uploading Home_Screen.gif…]()
-
+![image_alt](https://github.com/DvOmar76/Food-Ordering-App-UI/blob/main/Home_Screen.gif?raw=true)
 ## Introduction
 
 The goal of this project is to develop a **Food Ordering Application UI** that allows users to browse popular menu items, search for food, and add items to their cart.  
