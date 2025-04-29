@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// A custom red button with rounded corners and centered text
 class CustomButton extends StatelessWidget {
   final String title;
   const CustomButton({super.key, required this.title});

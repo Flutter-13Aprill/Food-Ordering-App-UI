@@ -10,6 +10,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
+      // AppBar with title
       appBar: AppBar(
         title: Text(
           'Populer Menue',
@@ -21,10 +22,12 @@ class HomeScreen extends StatelessWidget {
         children: [
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16),
+            // Search bar
             child: CustomSearch(),
           ),
           SizedBox(height: 20),
           Expanded(
+            // List of food cards
             child: ListView(
               shrinkWrap: true,
               children: [
@@ -60,6 +63,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                     ],
                   ),
+                  // Second row of food cards
                 ),
                 Padding(
                   padding: const EdgeInsets.all(16.0),

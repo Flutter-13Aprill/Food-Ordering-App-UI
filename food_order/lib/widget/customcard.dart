@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// A reusable card widget that displays food image, name, description, price, and add-to-cart button
 class CustomCard extends StatelessWidget {
   final String title;
   final String subTitle;

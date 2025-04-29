@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// A custom search bar widget with search icon, text input, and sort icon
 class CustomSearch extends StatelessWidget {
   const CustomSearch({super.key});
 
