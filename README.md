@@ -41,11 +41,10 @@ This project centers around building a user-friendly interface for a fictional r
 
 ## Dependencies 
 
-  *Frameworks* 
-    Flutter
+  *Frameworks*: Flutter
 
-  *Languages*
-     Dart
+  
+  *Languages*:  Dart
 
 
 ## Folder Structure
