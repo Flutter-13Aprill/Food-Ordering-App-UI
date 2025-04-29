@@ -4,6 +4,8 @@ class FilterButtons extends StatelessWidget {
   final String filterBy;
   const FilterButtons({super.key, required this.filterBy});
 
+  // A custom button widget that displays a filter option with a blue background and rounded corners.
+
   @override
   Widget build(BuildContext context) {
     return Container(

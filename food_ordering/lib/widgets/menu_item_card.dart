@@ -14,6 +14,8 @@ class MenuItemCard extends StatefulWidget {
   @override
   State<MenuItemCard> createState() => _MenuItemCardState();
 }
+// A customizable card widget for displaying a menu item with an image, name, description, price,
+// a favorite (like) button, and an "Add to Cart" section at the bottom.
 
 class _MenuItemCardState extends State<MenuItemCard> {
   bool clicked = false;

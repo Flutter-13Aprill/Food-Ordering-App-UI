@@ -5,6 +5,9 @@ import 'package:food_ordering/widgets/filter_buttons.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
+  // A main screen displaying a popular menu list with a search bar and filter buttons,
+  // using custom widgets like MenuItemCard and FilterButtons to build a clean and organized UI.
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
