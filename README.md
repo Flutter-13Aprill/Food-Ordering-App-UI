@@ -4,6 +4,7 @@
 
 ---
 #screen 📱
+![Uploading Home_Screen.gif…]()
 
 ## Introduction
 
